@@ -1,0 +1,425 @@
+[
+ {
+  "name": "Assistente",
+  "slug": "assistente",
+  "title": "Painel — Assistente de dados (IA)",
+  "full": "Assistente de dados",
+  "kind": "web",
+  "w": 1440,
+  "h": 1080
+ },
+ {
+  "name": "Auditoria",
+  "slug": "auditoria",
+  "title": "Painel — Log de auditoria",
+  "full": "Log de auditoria",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "Clientes",
+  "slug": "clientes",
+  "title": "Painel — Clientes",
+  "full": "Clientes",
+  "kind": "web",
+  "w": 1440,
+  "h": 980
+ },
+ {
+  "name": "Componentes",
+  "slug": "componentes",
+  "title": "Componentes",
+  "full": "Componentes",
+  "kind": "web",
+  "w": 1440,
+  "h": 1240
+ },
+ {
+  "name": "Comprovante",
+  "slug": "comprovante",
+  "title": "Público — Entregue e comprovante",
+  "full": "Rastreio — entrega concluída",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "Console",
+  "slug": "console",
+  "title": "Console do super-admin",
+  "full": "Console da plataforma",
+  "kind": "web",
+  "w": 1440,
+  "h": 1000
+ },
+ {
+  "name": "Conversas",
+  "slug": "conversas",
+  "title": "Painel — Conversas do agente",
+  "full": "Conversas do agente",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "Cores",
+  "slug": "cores",
+  "title": "Cores e tokens",
+  "full": "Cores e tokens",
+  "kind": "web",
+  "w": 1440,
+  "h": 1040
+ },
+ {
+  "name": "DashOperacao",
+  "slug": "dash-operacao",
+  "title": "Painel — Dashboard de operação",
+  "full": "Dashboard de operação",
+  "kind": "web",
+  "w": 1440,
+  "h": 1000
+ },
+ {
+  "name": "DashQualidade",
+  "slug": "dash-qualidade",
+  "title": "Painel — Dashboard de qualidade e custos",
+  "full": "Dashboard de qualidade e custos",
+  "kind": "web",
+  "w": 1440,
+  "h": 1000
+ },
+ {
+  "name": "Despesas",
+  "slug": "despesas",
+  "title": "Painel — Despesas e insumos",
+  "full": "Despesas e insumos",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ },
+ {
+  "name": "Dossie",
+  "slug": "dossie",
+  "title": "Relatório — Dossiê de entrega",
+  "full": "Dossiê de entrega da OS 001234",
+  "kind": "web",
+  "w": 1440,
+  "h": 1500
+ },
+ {
+  "name": "Empresa",
+  "slug": "empresa",
+  "title": "Painel — Empresa e filiais",
+  "full": "Empresa e filiais",
+  "kind": "web",
+  "w": 1440,
+  "h": 980
+ },
+ {
+  "name": "Etiquetas",
+  "slug": "etiquetas",
+  "title": "Painel — Impressão de etiquetas",
+  "full": "Etiquetas — impressão",
+  "kind": "web",
+  "w": 1440,
+  "h": 1180
+ },
+ {
+  "name": "Frota",
+  "slug": "frota",
+  "title": "Painel — Frota e pessoas",
+  "full": "Frota e pessoas",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ },
+ {
+  "name": "Importacao",
+  "slug": "importacao",
+  "title": "Painel — Importar planilha",
+  "full": "Importar planilha",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "Login",
+  "slug": "login",
+  "title": "Painel — Entrar (com 2FA)",
+  "full": "Entrar no painel",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "Main",
+  "slug": "main",
+  "title": "Visão geral",
+  "full": "Visão geral do design system",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "MotDespesa",
+  "slug": "mot-despesa",
+  "title": "Motorista — Lançar despesa",
+  "full": "App do motorista — lançar despesa",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "MotFalha",
+  "slug": "mot-falha",
+  "title": "Motorista — Não consegui entregar",
+  "full": "App do motorista — não consegui entregar",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "MotLeitura",
+  "slug": "mot-leitura",
+  "title": "App — Leitura de volumes (carregamento)",
+  "full": "App — leitura de volumes",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "MotLeituraErro",
+  "slug": "mot-leitura-erro",
+  "title": "App — PARE: destino errado",
+  "full": "App — leitura no destino errado",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "MotLogin",
+  "slug": "mot-login",
+  "title": "Motorista — Entrar",
+  "full": "App do motorista — entrar",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "MotRota",
+  "slug": "mot-rota",
+  "title": "Motorista — Rota do dia",
+  "full": "App do motorista — rota do dia",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "Motorista",
+  "slug": "motorista",
+  "title": "App do motorista — Parada",
+  "full": "App do motorista: parada",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "NovaOS",
+  "slug": "nova-os",
+  "title": "Painel web — Nova ordem de coleta",
+  "full": "Nova ordem de coleta",
+  "kind": "web",
+  "w": 1440,
+  "h": 1560
+ },
+ {
+  "name": "OSDetalhe",
+  "slug": "os-detalhe",
+  "title": "Painel — Detalhe da OS",
+  "full": "Detalhe da OS",
+  "kind": "web",
+  "w": 1440,
+  "h": 1120
+ },
+ {
+  "name": "Onboarding",
+  "slug": "onboarding",
+  "title": "Onboarding do tenant",
+  "full": "Criar conta da transportadora",
+  "kind": "web",
+  "w": 1440,
+  "h": 940
+ },
+ {
+  "name": "Orcamento",
+  "slug": "orcamento",
+  "title": "Público — Orçamento",
+  "full": "Orçamento para aprovação",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "Painel",
+  "slug": "painel",
+  "title": "Painel web — Ordens de serviço",
+  "full": "Painel: ordens de serviço",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ },
+ {
+  "name": "Rastreio",
+  "slug": "rastreio",
+  "title": "Página de rastreio",
+  "full": "Página de rastreio",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "Reagendar",
+  "slug": "reagendar",
+  "title": "Público — Reagendar",
+  "full": "Rastreio — reagendar entrega",
+  "kind": "phone",
+  "w": 390,
+  "h": 844
+ },
+ {
+  "name": "RelAutomacao",
+  "slug": "rel-automacao",
+  "title": "Relatório — Valor da automação",
+  "full": "Relatório — valor da automação",
+  "kind": "web",
+  "w": 1440,
+  "h": 1240
+ },
+ {
+  "name": "RelConformidade",
+  "slug": "rel-conformidade",
+  "title": "Relatório — Conformidade da frota e LGPD",
+  "full": "Relatório — conformidade da frota e LGPD",
+  "kind": "web",
+  "w": 1440,
+  "h": 1180
+ },
+ {
+  "name": "RelETA",
+  "slug": "rel-eta",
+  "title": "Relatório — Precisão do ETA",
+  "full": "Relatório — precisão do ETA",
+  "kind": "web",
+  "w": 1440,
+  "h": 1120
+ },
+ {
+  "name": "RelEtapas",
+  "slug": "rel-etapas",
+  "title": "Relatório — Tempo em cada etapa",
+  "full": "Relatório — tempo em cada etapa",
+  "kind": "web",
+  "w": 1440,
+  "h": 1120
+ },
+ {
+  "name": "RelFalhas",
+  "slug": "rel-falhas",
+  "title": "Relatório — Custo da falha de entrega",
+  "full": "Relatório — custo da falha de entrega",
+  "kind": "web",
+  "w": 1440,
+  "h": 1200
+ },
+ {
+  "name": "RelFrota",
+  "slug": "rel-frota",
+  "title": "Relatório — Ocupação e produtividade da frota",
+  "full": "Relatório — ocupação e produtividade da frota",
+  "kind": "web",
+  "w": 1440,
+  "h": 1120
+ },
+ {
+  "name": "RelRentabilidade",
+  "slug": "rel-rentabilidade",
+  "title": "Relatório — Rentabilidade",
+  "full": "Relatório — rentabilidade por cliente e rota",
+  "kind": "web",
+  "w": 1440,
+  "h": 1260
+ },
+ {
+  "name": "RelSLA",
+  "slug": "rel-sla",
+  "title": "Relatório — SLA por contratante",
+  "full": "Relatório — SLA por contratante",
+  "kind": "web",
+  "w": 1440,
+  "h": 1100
+ },
+ {
+  "name": "Relatorios",
+  "slug": "relatorios",
+  "title": "Painel — Relatórios",
+  "full": "Relatórios",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ },
+ {
+  "name": "Rotas",
+  "slug": "rotas",
+  "title": "Painel — Montagem de rotas",
+  "full": "Montagem de rotas",
+  "kind": "web",
+  "w": 1440,
+  "h": 980
+ },
+ {
+  "name": "RotasAoVivo",
+  "slug": "rotas-ao-vivo",
+  "title": "Painel — Rotas em andamento",
+  "full": "Rotas em andamento",
+  "kind": "web",
+  "w": 1440,
+  "h": 900
+ },
+ {
+  "name": "Status",
+  "slug": "status",
+  "title": "Status da OS e da entrega",
+  "full": "Status da OS e da entrega",
+  "kind": "web",
+  "w": 1440,
+  "h": 1100
+ },
+ {
+  "name": "Templates",
+  "slug": "templates",
+  "title": "Painel — Templates de notificação",
+  "full": "Templates de notificação",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ },
+ {
+  "name": "Tipografia",
+  "slug": "tipografia",
+  "title": "Tipografia, espaço e forma",
+  "full": "Tipografia, espaço e forma",
+  "kind": "web",
+  "w": 1440,
+  "h": 1040
+ },
+ {
+  "name": "Usuarios",
+  "slug": "usuarios",
+  "title": "Painel — Usuários e acesso",
+  "full": "Usuários e acesso",
+  "kind": "web",
+  "w": 1440,
+  "h": 960
+ }
+]

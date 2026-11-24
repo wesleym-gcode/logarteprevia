@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body{margin:0;-webkit-font-smoothing:antialiased;font-family:Inter,system-ui,sans-serif;color:#111827}
+a{color:#1F4FD6}a:hover{color:#1A41B3}
+button,a,input,select,textarea{transition:background-color .15s ease-out,border-color .15s ease-out,color .15s ease-out,box-shadow .15s ease-out,filter .15s ease-out}
+button:not(:disabled):hover{filter:brightness(.96)}
+:focus-visible{outline:2px solid #3A66E0;outline-offset:2px}
+input:focus,select:focus,textarea:focus{outline:none;border-color:#3A66E0 !important;box-shadow:0 0 0 3px rgba(58,102,224,.16)}
+.lg-row:hover{background-color:#F9FAFB !important}
+.lg-nav[aria-current="false"]:hover{background-color:#1A2536 !important;color:#FFFFFF !important}
+
+/* moldura do app do motorista */
+.phone-stage{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:32px 16px;background:#E6E9EE}
+.phone-frame{width:390px;height:844px;border-radius:40px;overflow:hidden;box-shadow:0 0 0 10px #0E1726,0 30px 60px rgba(14,23,38,.35);background:#fff}
+@media (max-width:500px){
+  .phone-stage{padding:0;display:block;background:#fff}
+  .phone-frame{width:100%;height:auto;min-height:100dvh;border-radius:0;box-shadow:none;overflow:auto}
+}
